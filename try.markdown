@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Knowledege Based Reinforcement Learning
+title: Try
 permalink: /try/
 ---
 
@@ -21,5 +21,11 @@ The topics relevant to this workshop will cover a wide variety of methods and pr
 - Relational Reinforcement Learning;
 - Model-based Reinforcement Learning;
 - Using external knowledge for efficient Reinforcement Learning;
-•Transfer Learning for Reinforcement Learning;
-•Symbol grounding and Abstractions for Reinforcement Learning;
+- Transfer Learning for Reinforcement Learning;
+- Symbol grounding and Abstractions for Reinforcement Learning;
+- Hierarchical Reinforcement Learning;
+- Benchmarks for Knowledge guided Reinforcement Learning.
+
+Paper Format:
+We welcome original research papers of up to 4 pages in length, formatted accordingto the IJCAI-PRICAI 2020 guidelines (https://www.ijcai.org/authors_kit). We also welcome extendedabstracts of up to 2 pages that describe open problems and challenges in the area of knowledge-basedRL. The papers will be non-archival, which means we welcome papers that have been published orsubmitted to other conferences and journals.  However, authors are required to acknowledge theirpapers’ original appearance in such cases.All accepted papers and extended abstracts will be presented as posters. The program committee willselect a few papers for oral presentation. There will be a poster session during the scheduled coffeebreaks to facilitate and spark discussions amongst attendees.
+
