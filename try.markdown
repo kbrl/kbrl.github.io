@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Try
+title: Knowledege Based Reinforcement Learning
 permalink: /try/
 ---
 
@@ -15,11 +15,11 @@ In addition to incorporating knowledge as an extra input, or into weight matrice
 We believe that incorporating knowledge can potentially solve many of the most pressing challengesfacing reinforcement learning today. The primary goal of this workshop is to facilitate communitybuilding:  we  hope  to  bring  researchers  together  to  consolidate  this  line  of  research  and  fostercollaboration in the community. 
 
 The topics relevant to this workshop will cover a wide variety of methods and problems in the area,including but not limited to:
-•Safe Reinforcement Learning;
-•Reinforcement Learning for Natural Language Understanding;
-•Real-world applications of Reinforcement Learning;
-•Relational Reinforcement Learning;
-•Model-based Reinforcement Learning;
-•Using external knowledge for efficient Reinforcement Learning;
+- Safe Reinforcement Learning;
+- Reinforcement Learning for Natural Language Understanding;
+- Real-world applications of Reinforcement Learning;
+- Relational Reinforcement Learning;
+- Model-based Reinforcement Learning;
+- Using external knowledge for efficient Reinforcement Learning;
 •Transfer Learning for Reinforcement Learning;
 •Symbol grounding and Abstractions for Reinforcement Learning;
