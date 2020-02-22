@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+News
+======
+* New workshop accepted: Knowledge-Based Reinforcement Learning (KBRL) Workshop at IJCAI-PRICAI 2020, Yokohama, Japan.
