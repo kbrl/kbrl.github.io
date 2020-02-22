@@ -7,6 +7,7 @@ layout: page
 title: Overview
 permalink: /
 ---
+# KBRL at IJCAI-PRICAI 2020, Yokohama, Japan
 
 **Date and time: TBD**
 
