@@ -37,6 +37,7 @@ The topics relevant to this workshop will cover a wide variety of methods and pr
 
 This workshop aims to provide an environment with open exchange of ideas, freedom of thought and expression, and respectful scientific debate.
 Thus harassment and hostile behavior (including but not limited to harassment based on race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, or gender identity) are unwelcome in the workshop. 
+
 During the workshop, any participant who experiences harassment or hostile behavior may contact any of our organizing committee members, the organizers will take actions upon the situation to make sure we have a diverse, inclusive and friendly environment.
 
 # References
