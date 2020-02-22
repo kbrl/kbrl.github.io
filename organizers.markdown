@@ -3,7 +3,6 @@ layout: page
 title: Organizers
 permalink: /organizers/
 ---
-Organizers
 
 * [Asim Munawar](https://researcher.watson.ibm.com/researcher/view.php?person=jp-ASIM) (IBM Research)
 * [Kartik Talamadupula](http://www.ktalamad.com/) (IBM Research) 

@@ -4,8 +4,6 @@ title: Program Committee
 permalink: /pc/
 ---
 
-Program Committee
-
 * Daiki Kimura (IBM)
 * Subhajit Chaudhury (IBM)
 * Don Joven Agravante (IBM)
