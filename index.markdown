@@ -9,6 +9,7 @@ permalink: /
 ---
 
 **Date and time: TBD**
+
 **Location: Yokohama, Japan, TBD**
 
 In recent years, deep Reinforcement Learning (RL) has been widely used in various domains includingcomputer games, robotics, vision, and language. For applications in real-world environments, stateof the art reinforcement learning algorithms suffer from a wide range of challenges such as sampleinefficiency,  safety constraints,  partial observability,  dynamic environments,  hidden rewards insystems, and explainability. 
@@ -38,3 +39,18 @@ This workshop aims to provide an environment with open exchange of ideas, freedo
 Thus harassment and hostile behavior (including but not limited to harassment based on race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, or gender identity) are unwelcome in the workshop. 
 During the workshop, any participant who experiences harassment or hostile behavior may contact any of our organizing committee members, the organizers will take actions upon the situation to make sure we have a diverse, inclusive and friendly environment.
 
+# References
+
+- Das, R., Dhuliawala, S., Zaheer, M., Vilnis, L., Durugkar, I., Krishnamurthy, A., Smola, A. J., andMcCallum, A. (2017). Go for a walk and arrive at the answer: Reasoning over paths in knowledgebases using reinforcement learning.CoRR, abs/1711.05851.
+- Devlin, J., Chang, M., Lee, K., and Toutanova, K. (2018). BERT: pre-training of deep bidirectionaltransformers for language understanding.CoRR, abs/1810.04805.
+- Ferrucci, D. A., Brown, E. W., Chu-Carroll, J., Fan, J. Z., Gondek, D., Kalyanpur, A., Lally, A.,Murdock, J. W., Nyberg, E., Prager, J. M., Schlaefer, N., and Welty, C. A. (2010). Building watson:An overview of the deepqa project.AI Magazine, 31:59–79.
+- Ha, D. and Schmidhuber, J. (2018). Recurrent world models facilitate policy evolution. InAdvancesin Neural Information Processing Systems 31, pages 2451–2463. Curran Associates, Inc.https://worldmodels.github.io.
+- He, K., Gkioxari, G., Dollár, P., and Girshick, R. B. (2017). Mask R-CNN.CoRR, abs/1703.06870.
+- Hochreiter, S. and Schmidhuber, J. (1997). Long short-term memory.Neural Comput., 9(8):1735–1780.
+- Kipf, T. N. and Welling, M. (2016). Semi-supervised classification with graph convolutional networks.CoRR, abs/1609.02907.
+- LeCun, Y., Bengio, Y., and Hinton, G. (2015). Deep learning.Nature, 521(7553):436–444.
+- Mikolov, T., Grave, E., Bojanowski, P., Puhrsch, C., and Joulin, A. (2018). Advances in pre-trainingdistributed word representations. InProceedings of the International Conference on LanguageResources and Evaluation (LREC 2018).
+- Mikolov, T., Sutskever, I., Chen, K., Corrado, G., and Dean, J. (2013). Distributed representations ofwords and phrases and their compositionality. InProceedings of the 26th International Conferenceon Neural Information Processing Systems - Volume 2, NIPS’13, pages 3111–3119, USA. CurranAssociates Inc.
+- Pennington, J., Socher, R., and Manning, C. D. (2014). Glove: Global vectors for word representation.InEmpirical Methods in Natural Language Processing (EMNLP), pages 1532–1543.
+- Rumelhart, D. E., Hinton, G. E., and Williams, R. J. (1988). Neurocomputing: Foundations ofresearch. chapter Learning Representations by Back-propagating Errors, pages 696–699. MITPress, Cambridge, MA, USA.
+- Yang, Z., Dai, Z., Yang, Y., Carbonell, J. G., Salakhutdinov, R., and Le, Q. V. (2019). Xlnet:Generalized autoregressive pretraining for language understanding.CoRR, abs/1906.08237.
