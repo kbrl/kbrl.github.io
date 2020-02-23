@@ -1,0 +1,9 @@
+opening:
+  event: "Opening Remarks (By Organizers)”
+  start: “8:45"
+  type: "General"
+closing:
+  event: “End”
+  start: “18:00”
+  type: "General"
+
