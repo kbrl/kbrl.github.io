@@ -1,49 +1,49 @@
 opening:
-  event: "Opening Remarks by Organizers”
-  start: “08:45"
+  event: "Opening Remarks (by Organizers)"
+  start: "08:45"
   type: "General"
 invite1:
-  event: "Invited Talk 1”
-  start: “09:00"
+  event: "Invited Talk 1"
+  start: "09:00"
   type: "General"
 contributed1:
-  event: "Contributed Talks 1”
-  start: “09:30"
+  event: "Contributed Talks 1"
+  start: "09:30"
   type: "General"
 invite2:
-  event: "Invited Talk 2”
-  start: “10:30"
+  event: "Invited Talk 2"
+  start: "10:30"
   type: "General"
 contributed2:
-  event: "Contributed Talks 2”
-  start: “11:00"
+  event: "Contributed Talks 2"
+  start: "11:00"
   type: "General"
 lunch:
   event: "Lunch Break"
   start: "12:00"
   type: "General"
 invite3:
-  event: "Invited Talk 3”
-  start: “13:00"
+  event: "Invited Talk 3"
+  start: "13:00"
   type: "General"
 contributed3:
-  event: "Contributed Talks 3”
-  start: “13:30"
+  event: "Contributed Talks 3"
+  start: "13:30"
   type: "General"
 poster:
-  event: "Poster Session”
-  start: “15:00"
+  event: "Poster Session"
+  start: "15:00"
   type: "General"
 invite4:
-  event: "Invited Talk 4”
-  start: “16:30"
+  event: "Invited Talk 4"
+  start: "16:30"
   type: "General"
 panel:
   event: "Discussion Panel"
   start: "17:00"
   type: "General"
 closing:
-  event: “End”
-  start: “18:00”
+  event: "End"
+  start: "18:00"
   type: "General"
 
