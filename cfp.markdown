@@ -12,7 +12,8 @@ permalink: /cfp/
 
 **Camera ready deadline:** Sunday, 14 June 2020 (23:59 Pacific Time)
 
-We welcome original research papers of up to 4 pages in length (not including references or supplementary materials), formatted according to [the IJCAI-PRICAI 2020 guidelines](https://www.ijcai.org/authors_kit).  Authors have the option of submitting one supplementary manuscript containing further details of their work, it is entirely up to the reviewers to decide whether they wish to consult this additional material.
+We welcome original research papers of up to 4 pages in length (not including references or supplementary materials), formatted according to [the IJCAI-PRICAI 2020 guidelines](https://www.ijcai.org/authors_kit). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised.
+Authors have the option of submitting one supplementary manuscript containing further details of their work, it is entirely up to the reviewers to decide whether they wish to consult this additional material.
 
 We also welcome extended abstracts of up to 2 pages that describe open problems and challenges in the area of knowledge-based RL.
 The papers will be non-archival, which means we welcome papers that have been published or submitted to other conferences and journals.
