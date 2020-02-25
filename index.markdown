@@ -9,6 +9,8 @@ permalink: /
 ---
 # KBRL at IJCAI-PRICAI 2020, Yokohama, Japan
 
+**[Call for papers is out!](https://kbrl.github.io/cfp/)**
+
 **Date and time: TBD**
 
 **Location: Yokohama, Japan, TBD**

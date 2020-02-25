@@ -4,7 +4,13 @@ title: Call For Papers
 permalink: /cfp/
 ---
 
-**Submission deadline and website: coming soon**
+**Submission website:** [CMT](https://cmt3.research.microsoft.com/KBRL2020)
+
+**Submission deadline:** Sunday, 10 May 2020 (23:59 Pacific Time)
+
+**Author notification:** Sunday, 31 May 2020 (23:59 Pacific Time)
+
+**Camera ready deadline:** Sunday, 14 June 2020 (23:59 Pacific Time)
 
 We welcome original research papers of up to 4 pages in length (not including references or supplementary materials), formatted according to [the IJCAI-PRICAI 2020 guidelines](https://www.ijcai.org/authors_kit).  Authors have the option of submitting one supplementary manuscript containing further details of their work, it is entirely up to the reviewers to decide whether they wish to consult this additional material.
 
