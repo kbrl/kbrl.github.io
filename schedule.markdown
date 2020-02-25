@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-# Schedule
+Tentative, to be announced.
 
 <div class="container">
   <div class="row">
