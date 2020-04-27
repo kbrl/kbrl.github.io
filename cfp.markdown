@@ -6,11 +6,11 @@ permalink: /cfp/
 
 **Submission website:** [CMT](https://cmt3.research.microsoft.com/KBRL2020)
 
-**Submission deadline:** ~~Sunday, 10 May 2020 (23:59 Pacific Time)~~ Wednesday, 20 May 2020 (23:59 Pacific Time)
+**Submission deadline:** ~~10 May 2020~~ Wednesday, 20 May 2020 (23:59 Pacific Time)
 
-**Author notification:** ~~Sunday, 31 May 2020 (23:59 Pacific Time)~~  Wednesday, 10 June 2020 (23:59 Pacific Time)
+**Author notification:** ~~31 May 2020~~  Wednesday, 10 June 2020 (23:59 Pacific Time)
 
-**Camera ready deadline:** ~~Sunday, 14 June 2020 (23:59 Pacific Time)~~ Wednesday, 24 June 2020 (23:59 Pacific Time)
+**Camera ready deadline:** ~~14 June 2020~~ Wednesday, 24 June 2020 (23:59 Pacific Time)
 
 
 We welcome original research papers of up to 4 pages in length (not including references or supplementary materials), formatted according to [the IJCAI-PRICAI 2020 guidelines](https://www.ijcai.org/authors_kit). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised.
