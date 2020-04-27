@@ -3,8 +3,24 @@ asim:
   url: "https://researcher.watson.ibm.com/researcher/view.php?person=jp-ASIM"
   affiliation: "IBM Research"
   img: "asim.jpg"
-asimm:
-  name: "Asim Munawar"
-  url: "https://researcher.watson.ibm.com/researcher/view.php?person=jp-ASIM"
+kartik:
+  name: "Kartik Talamadupula"
+  url: "http://www.ktalamad.com/"
   affiliation: "IBM Research"
-  img: "asim.jpg"
+  img: "kartik.jpg"
+marc:
+  name: "Marc-Alexandre Côté"
+  url: "https://www.microsoft.com/en-us/research/people/macote/"
+  affiliation: "Microsoft Research, Montréal"
+  img: "marc.jpg"
+eric:
+  name: "Xingdi (Eric) Yuan"
+  url: "https://xingdi-eric-yuan.github.io/"
+  affiliation: "Microsoft Research, Montréal"
+  img: "eric.jpg"
+mori:
+  name: "Hiroki Mori"
+  url: "https://researchmap.jp/hirokimori1981/?lang=english"
+  affiliation: "Waseda University"
+  img: "mori.jpg"
+  
