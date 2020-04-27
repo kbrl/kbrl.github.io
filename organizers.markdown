@@ -4,18 +4,6 @@ title: Organizers
 permalink: /organizers/
 ---
 
-<style>
-table th:first-of-type {
-    width: 33%;
-}
-table th:nth-of-type(2) {
-    width: 33%;
-}
-table th:nth-of-type(3) {
-    width: 33%;
-}
-</style>
-
 <img src="https://kbrl.github.io/img/asim.jpg" alt="Asim" width="250"/>|  <img src="https://kbrl.github.io/img/kartik.jpg" alt="Kartik" width="250"/> |  <img src="https://kbrl.github.io/img/marc.jpg" alt="Marc" width="250"/> |
 :---------------:|:---------------:|:-------------:
 [Asim Munawar](https://researcher.watson.ibm.com/researcher/view.php?person=jp-ASIM)<br>IBM Research | [Kartik Talamadupula](http://www.ktalamad.com/)<br>IBM Research | [Marc-Alexandre Côté](https://www.microsoft.com/en-us/research/people/macote/)<br>Microsoft Research, Montréal
