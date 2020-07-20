@@ -11,9 +11,7 @@ permalink: /
 
 **[Call for papers is out!](https://kbrl.github.io/cfp/)**
 
-**Date and time: Full day workshop on July 12<sup>th</sup>**
-
-**Location: Yokohama, Japan (May change due to COVID-19)**
+**For Dates and Location: [Please refer to](https://www.ijcai20.org/workshops.html)**
 
 In recent years, deep Reinforcement Learning (RL) has been widely used in various domains including computer games, robotics, vision, and language. For applications in real-world environments, state of the art reinforcement learning algorithms suffer from a wide range of challenges such as sample inefficiency, safety constraints, partial observability, dynamic environments, hidden rewards insystems, and explainability.
 
