@@ -6,7 +6,7 @@ permalink: /cfp/
 
 **Submission website:** [CMT](https://cmt3.research.microsoft.com/KBRL2020)
 
-**Submission deadline:** ~~Friday, 28 August 2020 (23:59 Pacific Time)~~   Thursday, 10 September 2020 (23:59 Pacific Time)
+**Submission deadline:** ~~Friday, 28 August 2020~~ Thursday, 10 September 2020 (23:59 Pacific Time)
 
 **Author notification:** Friday, 18 September 2020 (23:59 Pacific Time)
 
