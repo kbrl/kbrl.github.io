@@ -30,7 +30,7 @@ permalink: /schedule/
 	<tr>
 		<td>&nbsp;09:30</td>
 		<td>&nbsp;Contributed Talk</td>
-		<td>&nbsp;Author1, Author 2, and Author 3<br><i>This is a place holder for the paper</i> (<a href="tmp">PDF</a>)</td>
+		<td>&nbsp;Author1, Author 2, and Author 3<br><b>This is a place holder for the paper</b> (<a href="tmp">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
