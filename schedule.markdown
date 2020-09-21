@@ -18,19 +18,19 @@ permalink: /schedule/
 	</thead>
 	<tbody>
 	<tr>
-		<td>&nbsp;08:45</td>
+		<td>&nbsp;08:50</td>
 		<td>&nbsp;Opening Remarks</td>
-		<td>&nbsp;[KBRL Organizers](https://kbrl.github.io/organizers/)</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
 		<td>&nbsp;<a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
 	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>&nbsp;09:00</td>
+		<td>&nbsp;Invited Talk</td>
+		<td>&nbsp;<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html">Sergey Levine</a>, Assistant Professor, UC Berkeley</td>
+	</tr>
+	<tr>
+		<td>&nbsp;09:30</td>
+		<td>&nbsp;Contributed Talk</td>
+		<td>&nbsp;Author1, Author 2, Author 3<br>This is a place holder for the paper (PDF)</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
