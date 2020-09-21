@@ -8,36 +8,31 @@ permalink: /schedule/
 <link href="https://kbrl.github.io/img/general.css" rel="stylesheet"></link>
 
 <table class="demo">
-	<caption>Table 1</caption>
+	<caption></caption>
 	<thead>
 	<tr>
-		<th>Header 1</th>
-		<th>Header 2</th>
-		<th>Header 3</th>
-		<th>Header 4</th>
+		<th>Time<br>(JST, GMT+09:00)</th>
+		<th>Category</th>
+		<th>Title & Speaker(s)</th>
 	</tr>
 	</thead>
 	<tbody>
 	<tr>
+		<td>&nbsp;08:45</td>
+		<td>&nbsp;Opening Remarks</td>
+		<td>&nbsp;[KBRL Organizers](https://kbrl.github.io/organizers/)</td>
+	</tr>
+	<tr>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>&nbsp;<a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td>&nbsp;</td>
 	</tr>
 	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
