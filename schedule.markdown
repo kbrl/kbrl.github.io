@@ -29,11 +29,6 @@ permalink: /schedule/
 	</tr>
 	<tr>
 		<td>&nbsp;09:30</td>
-		<td>&nbsp;Contributed Talk</td>
-		<td>&nbsp;Author1, Author 2, and Author 3<br><b>This is a place holder for the paper</b> (<a href="tmp">PDF</a>)</td>
-	</tr>
-	<tr>
-		<td>&nbsp;09:30</td>
 		<td>Contributed Talk</td>
 		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="tmp">PDF</a>)</td>
 	</tr>
@@ -48,15 +43,54 @@ permalink: /schedule/
 		<td>Contributed Talk</td>
 		<td>Bernardo Esteves, Francisco S. Melo<br><b>Revisiting “Recurrent World Models Facilitate Policy Evolution”</b> (<a href="tmp">PDF</a>)</td>
 	</tr>	
+	<tr>
 		<td>&nbsp;10:10</td>
 		<td>Contributed Talk</td>
-		<td>Duc Thien Nguyen, Desmond Cai, Shiau Hong Lim, Laura Wynter</td>	
-
-<br><b>Deep Recurrent Policy Search for Portfolio Optimization</b>
-		
+		<td>Duc Thien Nguyen, Desmond Cai, Shiau Hong Lim, Laura Wynter<br><b>Deep Recurrent Policy Search for Portfolio Optimization</b></td>	
+	</tr>
+	<tr>
+		<td>&nbsp;00:00</td>
+		<td>Contributed Talk</td>
+		<td>Jakob J Hollenstein, Sayantan Auddy, Matteo Saveriano, Erwan Renaudo, Justus Piater<br><b>How do Offline Measures for Exploration in Reinforcement Learning behave?</b></td>
+	</tr>
+	<tr>
+		<td>&nbsp;00:00</td>
+		<td>Contributed Talk</td>
+		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br></b>State Prediction in TextWorld with a Predicate-Logic Pointer Network Architecture</b></td>
+	</tr>
+	<tr>
+		<td>&nbsp;00:00</td>
+		<td>Contributed Talk</td>
+		<td>Minori Narita, Daiki Kimura<br><b>Learning from Failure: Introducing Failure Ratio in Reinforcement Learning</b></td>
+	</tr>
+	<tr>
+		<td>&nbsp;00:00</td>
+		<td>Contributed Talk</td>
+		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>Towards Logical Model-based Reinforcement Learning: Lifted Operator Models</b></td>
+	</tr>
+	<tr>
+		<td>&nbsp;00:00</td>
+		<td>Contributed Talk</td>
+		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>Towards Logical Model-based Reinforcement Learning: Lifted Operator Models</b></td>
+	</tr>
+	<tr>
+		<td>&nbsp;00:00</td>
+		<td>Contributed Talk</td>
+		<td>Daiki Kimura, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, Alexander G Gray<br><b>Reinforcement Learning with External Knowledge by using Logical Neural Networks</b></td>
+	</tr>
+	<tr>
+		<td>&nbsp;00:00</td>
+		<td>Contributed Talk</td>
+		<td>Daiki Kimura, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, Alexander G Gray<br><b>Reinforcement Learning with External Knowledge by using Logical Neural Networks</b></td>
+	</tr>
+	<tr>
+		<td>&nbsp;00:00</td>
+		<td>Contributed Talk</td>
+		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Deep Policy Shaping</b>
+</b></td>
+	</tr>
 	</tbody>
 </table>
-
 
 
 
