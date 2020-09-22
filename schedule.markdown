@@ -33,12 +33,24 @@ permalink: /schedule/
 		<td>&nbsp;Author1, Author 2, and Author 3<br><b>This is a place holder for the paper</b> (<a href="tmp">PDF</a>)</td>
 	</tr>
 	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>09:30</td>
+		<td>Contributed Talk</td>
+		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="tmp">PDF</a>)</td>
 	</tr>
+	<tr>
+		<td>09:50</td>
+		<td>Contributed Talk</td>
+		<td>Prithviraj V Ammanabrolu, Ethan Tien, Zhaochen Luo, Mark Riedl<br><b>How To Avoid Being Eaten By a Grue: Exploration Strategies for Text-Adventure Agents</b>
+ (<a href="tmp">PDF</a>)</td>
+	</tr>
+		
+		
+		
 	</tbody>
 </table>
+
+
+
 
 
 
