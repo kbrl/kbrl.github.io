@@ -33,21 +33,31 @@ permalink: /schedule/
 		<td>&nbsp;Author1, Author 2, and Author 3<br><b>This is a place holder for the paper</b> (<a href="tmp">PDF</a>)</td>
 	</tr>
 	<tr>
-		<td>09:30</td>
+		<td>&nbsp;09:30</td>
 		<td>Contributed Talk</td>
 		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="tmp">PDF</a>)</td>
 	</tr>
 	<tr>
-		<td>09:50</td>
+		<td>&nbsp;09:50</td>
 		<td>Contributed Talk</td>
 		<td>Prithviraj V Ammanabrolu, Ethan Tien, Zhaochen Luo, Mark Riedl<br><b>How To Avoid Being Eaten By a Grue: Exploration Strategies for Text-Adventure Agents</b>
  (<a href="tmp">PDF</a>)</td>
 	</tr>
-		
-		
+	<tr>
+		<td>&nbsp;10:10</td>
+		<td>Contributed Talk</td>
+		<td>Bernardo Esteves, Francisco S. Melo<br><b>Revisiting “Recurrent World Models Facilitate Policy Evolution”</b> (<a href="tmp">PDF</a>)</td>
+	</tr>	
+		<td>&nbsp;10:10</td>
+		<td>Contributed Talk</td>
+		<td>Duc Thien Nguyen, Desmond Cai, Shiau Hong Lim, Laura Wynter</td>	
+
+<br><b>Deep Recurrent Policy Search for Portfolio Optimization</b>
 		
 	</tbody>
 </table>
+
+
 
 
 
