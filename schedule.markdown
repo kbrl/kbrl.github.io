@@ -56,7 +56,7 @@ permalink: /schedule/
 	<tr>
 		<td>&nbsp;00:00</td>
 		<td>Contributed Talk</td>
-		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br></b>State Prediction in TextWorld with a Predicate-Logic Pointer Network Architecture</b></td>
+		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>State Prediction in TextWorld with a Predicate-Logic Pointer Network Architecture</b></td>
 	</tr>
 	<tr>
 		<td>&nbsp;00:00</td>
