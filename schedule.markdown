@@ -16,13 +16,13 @@ permalink: /schedule/
 	<tbody>
 	<tr>
 		<td>&nbsp;08:50</td>
-		<td>&nbsp;Opening Remarks</td>
-		<td>&nbsp;<a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
+		<td>Opening Remarks</td>
+		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;09:00</td>
-		<td>&nbsp;Invited Talk</td>
-		<td>&nbsp;<a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html">Sergey Levine</a>, Assistant Professor, UC Berkeley</td>
+		<td>Invited Talk</td>
+		<td><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html">Sergey Levine</a>, Assistant Professor, UC Berkeley</td>
 	</tr>
 	<tr>
 		<td>&nbsp;09:30</td>
@@ -42,8 +42,8 @@ permalink: /schedule/
 	</tr>	
 	<tr>
 		<td>&nbsp;10:30</td>
-		<td>&nbsp;Invited Talk</td>
-		<td>&nbsp;<a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>, Assistant Professor, Computer Science, Princeton NLP</td>
+		<td>Invited Talk</td>
+		<td><a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>, Assistant Professor, Computer Science, Princeton NLP</td>
 	</tr>			
 	<tr>
 		<td>&nbsp;11:00</td>
@@ -67,8 +67,8 @@ permalink: /schedule/
 	</tr>		
 	<tr>
 		<td>&nbsp;13:00</td>
-		<td>&nbsp;Invited Talk</td>
-		<td>&nbsp;<a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, IBM Reserach</td>
+		<td>Invited Talk</td>
+		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, IBM Reserach</td>
 	</tr>		
 	<tr>
 		<td>&nbsp;13:30</td>
@@ -87,8 +87,8 @@ permalink: /schedule/
 	</tr>
 	<tr>
 		<td>&nbsp;14:30</td>
-		<td>&nbsp;Invited Talk</td>
-		<td>&nbsp;<a href="https://scholar.google.co.jp/citations?user=Khb7qw8AAAAJ&hl=ja">Masashi Hamaya</a>, Omron</td>
+		<td>Invited Talk</td>
+		<td><a href="https://scholar.google.co.jp/citations?user=Khb7qw8AAAAJ&hl=ja">Masashi Hamaya</a>, Omron</td>
 	</tr>
 	<tr>
 		<td>&nbsp;15:00</td>
@@ -107,8 +107,8 @@ permalink: /schedule/
 	</tr>
 	<tr>
 		<td>&nbsp;16:00</td>
-		<td>&nbsp;Invited Talk</td>
-		<td>&nbsp;<a href="https://ogata-lab.jp/">Tetsuya Ogata</a>, Waseda University</td>
+		<td>Invited Talk</td>
+		<td><a href="https://ogata-lab.jp/">Tetsuya Ogata</a>, Waseda University</td>
 	</tr>
 	<tr>
 		<td>&nbsp;16:30</td>
@@ -122,12 +122,12 @@ permalink: /schedule/
 	</tr>
 	<tr>
 		<td>&nbsp;17:10</td>
-		<td>&nbsp;Closing Remarks</td>
-		<td>&nbsp;<a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
+		<td>Closing Remarks</td>
+		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
 	<tr>
 		<td>&nbsp;17:15</td>
-		<td>&nbsp;End</td>
+		<td>End</td>
 		<td></td>
 	</tr>
 	</tbody>
