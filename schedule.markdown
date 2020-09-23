@@ -4,9 +4,6 @@ title: Schedule
 permalink: /schedule/
 ---
 
-
-<link href="https://kbrl.github.io/img/general.css" rel="stylesheet"></link>
-
 <table class="demo">
 	<caption></caption>
 	<thead>
