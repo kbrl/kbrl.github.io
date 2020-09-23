@@ -100,12 +100,12 @@ permalink: /schedule/
 	<tr>
 		<td>15:20</td>
 		<td>Contributed Talk</td>
-		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>Towards Logical Model-based Reinforcement Learning: Lifted Operator Models</b></td>
+		<td>Daiki Kimura, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, Alexander G Gray<br><b>Reinforcement Learning with External Knowledge by using Logical Neural Networks</b></td>
 	</tr>
 	<tr>
 		<td>15:40</td>
 		<td>Contributed Talk</td>
-		<td>Daiki Kimura, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, Alexander G Gray<br><b>Reinforcement Learning with External Knowledge by using Logical Neural Networks</b></td>
+		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Deep Policy Shaping</b></td>
 	</tr>
 	<tr>
 		<td>16:00</td>
@@ -114,21 +114,11 @@ permalink: /schedule/
 	</tr>
 	<tr>
 		<td>16:30</td>
-		<td>Contributed Talk</td>
-		<td>Daiki Kimura, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, Alexander G Gray<br><b>Reinforcement Learning with External Knowledge by using Logical Neural Networks</b></td>
-	</tr>
-	<tr>
-		<td>16:50</td>
-		<td>Contributed Talk</td>
-		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Deep Policy Shaping</b></td>
-	</tr>
-	<tr>
-		<td>17:10</td>
 		<td>Closing Remarks</td>
 		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
 	<tr>
-		<td>17:15</td>
+		<td>16:35</td>
 		<td>End</td>
 		<td></td>
 	</tr>
