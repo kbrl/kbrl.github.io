@@ -4,11 +4,11 @@ title: Call For Papers
 permalink: /cfp/
 ---
 
-**Submission website:** [CMT](https://cmt3.research.microsoft.com/KBRL2020)
+~~**Submission website:** [CMT](https://cmt3.research.microsoft.com/KBRL2020)~~
 
-**Submission deadline:** Thursday, 10 September 2020 (23:59 Pacific Time)
+~~**Submission deadline:** Thursday, 10 September 2020 (23:59 Pacific Time)~~
 
-**Author notification:** Tuesday, 22 September 2020 (23:59 Pacific Time)
+~~**Author notification:** Tuesday, 22 September 2020 (23:59 Pacific Time)~~
 
 **Camera ready deadline:** Monday, 28 September 2020 (23:59 Pacific Time)
 
