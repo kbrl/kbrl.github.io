@@ -29,13 +29,13 @@ permalink: /schedule/
 	<tr>
 		<td>09:30</td>
 		<td>Contributed Talk</td>
-		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="tmp">PDF</a>)</td>
+		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="https://kbrl.github.io/papers/01-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>09:50</td>
 		<td>Contributed Talk</td>
 		<td>Prithviraj V Ammanabrolu, Ethan Tien, Zhaochen Luo, Mark Riedl<br><b>How To Avoid Being Eaten By a Grue: Exploration Strategies for Text-Adventure Agents</b>
- (<a href="tmp">PDF</a>)</td>
+ (<a href="https://kbrl.github.io/papers/03-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>10:10</td>
@@ -50,17 +50,17 @@ permalink: /schedule/
 	<tr>
 		<td>11:00</td>
 		<td>Contributed Talk</td>
-		<td>Bernardo Esteves, Francisco S. Melo<br><b>Revisiting “Recurrent World Models Facilitate Policy Evolution”</b> (<a href="tmp">PDF</a>)</td>
+		<td>Bernardo Esteves, Francisco S. Melo<br><b>Revisiting “Recurrent World Models Facilitate Policy Evolution”</b> (<a href="https://kbrl.github.io/papers/05-KBRL.pdf">PDF</a>)</td>
 	</tr>	
 	<tr>
 		<td>11:20</td>
 		<td>Contributed Talk</td>
-		<td>Duc Thien Nguyen, Desmond Cai, Shiau Hong Lim, Laura Wynter<br><b>Deep Recurrent Policy Search for Portfolio Optimization</b></td>	
+		<td>Duc Thien Nguyen, Desmond Cai, Shiau Hong Lim, Laura Wynter<br><b>Deep Recurrent Policy Search for Portfolio Optimization</b> (<a href="https://kbrl.github.io/papers/06-KBRL.pdf">PDF</a>)</td>	
 	</tr>
 	<tr>
 		<td>11:40</td>
 		<td>Contributed Talk</td>
-		<td>Jakob J Hollenstein, Sayantan Auddy, Matteo Saveriano, Erwan Renaudo, Justus Piater<br><b>How do Offline Measures for Exploration in Reinforcement Learning behave?</b></td>
+		<td>Jakob J Hollenstein, Sayantan Auddy, Matteo Saveriano, Erwan Renaudo, Justus Piater<br><b>How do Offline Measures for Exploration in Reinforcement Learning behave?</b> (<a href="https://kbrl.github.io/papers/07-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>12:00</td>
@@ -75,17 +75,17 @@ permalink: /schedule/
 	<tr>
 		<td>13:30</td>
 		<td>Contributed Talk</td>
-		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>State Prediction in TextWorld with a Predicate-Logic Pointer Network Architecture</b></td>
+		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>State Prediction in TextWorld with a Predicate-Logic Pointer Network Architecture</b> (<a href="https://kbrl.github.io/papers/08-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>13:50</td>
 		<td>Contributed Talk</td>
-		<td>Minori Narita, Daiki Kimura<br><b>Learning from Failure: Introducing Failure Ratio in Reinforcement Learning</b></td>
+		<td>Minori Narita, Daiki Kimura<br><b>Learning from Failure: Introducing Failure Ratio in Reinforcement Learning</b> (<a href="https://kbrl.github.io/papers/09-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>14:10</td>
 		<td>Contributed Talk</td>
-		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>Towards Logical Model-based Reinforcement Learning: Lifted Operator Models</b></td>
+		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>Towards Logical Model-based Reinforcement Learning: Lifted Operator Models</b> (<a href="https://kbrl.github.io/papers/10-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>14:30</td>
@@ -100,12 +100,12 @@ permalink: /schedule/
 	<tr>
 		<td>15:20</td>
 		<td>Contributed Talk</td>
-		<td>Daiki Kimura, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, Alexander G Gray<br><b>Reinforcement Learning with External Knowledge by using Logical Neural Networks</b></td>
+		<td>Daiki Kimura, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, Alexander G Gray<br><b>Reinforcement Learning with External Knowledge by using Logical Neural Networks</b> (<a href="https://kbrl.github.io/papers/11-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>15:40</td>
 		<td>Contributed Talk</td>
-		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Deep Policy Shaping</b></td>
+		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Deep Policy Shaping</b> (<a href="https://kbrl.github.io/papers/12-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr>
 		<td>16:00</td>
