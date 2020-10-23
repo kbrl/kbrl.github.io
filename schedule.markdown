@@ -78,7 +78,7 @@ permalink: /schedule/
 		<td>Contributed Talk</td>
 		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>Towards Logical Model-based Reinforcement Learning: Lifted Operator Models</b> (<a href="https://kbrl.github.io/papers/10-KBRL.pdf">PDF</a>)</td>
 	</tr>
-	<tr>
+	<tr style="background-color: #e9fad2;">
 		<td>12:45</td>
 		<td>Invited Talk</td>
 		<td><a href="https://scholar.google.co.jp/citations?user=Khb7qw8AAAAJ&hl=ja">Masashi Hamaya</a>, Omron</td>
@@ -93,7 +93,7 @@ permalink: /schedule/
 		<td>Contributed Talk</td>
 		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Deep Policy Shaping</b> (<a href="https://kbrl.github.io/papers/12-KBRL.pdf">PDF</a>)</td>
 	</tr>
-	<tr>
+	<tr style="background-color: #e9fad2;">
 		<td>13:45</td>
 		<td>Invited Talk</td>
 		<td><a href="https://ogata-lab.jp/">Tetsuya Ogata</a>, Waseda University</td>
