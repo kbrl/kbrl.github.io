@@ -10,7 +10,7 @@ permalink: /cfp/
 
 ~~**Author notification:** Tuesday, 22 September 2020 (23:59 Pacific Time)~~
 
-**Camera ready deadline:** Monday, 28 September 2020 (23:59 Pacific Time)
+~~Camera ready deadline:** Monday, 28 September 2020 (23:59 Pacific Time)~~
 
 Due to COVID-19 pandemic, IJCAI-PRICAI has been postponed to January 2021. For further information please visit [https://ijcai20.org/](https://ijcai20.org/).
 
