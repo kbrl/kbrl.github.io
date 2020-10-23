@@ -3,9 +3,10 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
-**7th January 2020 (Japan Time)**
 
 **[IJCAI Workshops Page](https://www.ijcai20.org/workshops.html)**
+
+**KBRL Workshop will be held virtually on 7th January 2020 (9:00am - 2:30pm Japan Time)**
 
 <table class="demo" style="text-align: center">
 	<caption></caption>
