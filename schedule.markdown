@@ -23,12 +23,12 @@ permalink: /schedule/
 		<td>Opening Remarks</td>
 		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
-	<tr style="background-color: #e9fad2; border-color: #ffffff;">
+	<tr style="background-color: #e9fad2;">
 		<td>09:05</td>
 		<td>Invited Talk</td>
 		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Research</td>
 	</tr>		
-	<tr style="background-color: #d6edff; border-color: #ffffff;">
+	<tr style="background-color: #d6edff;">
 		<td>09:45</td>
 		<td>Contributed Talk</td>
 		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="https://kbrl.github.io/papers/01-KBRL.pdf">PDF</a>)</td>
