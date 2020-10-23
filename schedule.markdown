@@ -3,9 +3,9 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
-
 **7th January 2020 (Japan Time)**
-**[IJCAI Workshops Schedule](https://www.ijcai20.org/workshops.html)**
+
+**[IJCAI Workshops Page](https://www.ijcai20.org/workshops.html)**
 
 <table class="demo" style="text-align: center">
 	<caption></caption>
@@ -22,10 +22,10 @@ permalink: /schedule/
 		<td>Opening Remarks</td>
 		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
-	<tr>
+	<tr style="background-color: #e9fad2;">
 		<td>09:05</td>
 		<td>Invited Talk</td>
-		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Reserach</td>
+		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Research</td>
 	</tr>		
 	<tr>
 		<td>09:45</td>
@@ -43,7 +43,7 @@ permalink: /schedule/
 		<td>Contributed Talk</td>
 		<td>Bernardo Esteves, Francisco S. Melo<br><b>Revisiting “Recurrent World Models Facilitate Policy Evolution”</b> (<a href="https://kbrl.github.io/papers/05-KBRL.pdf">PDF</a>)</td>
 	</tr>
-	<tr>
+	<tr style="background-color: #e9fad2;">
 		<td>10:30</td>
 		<td>Invited Talk</td>
 		<td><a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>, Assistant Professor, Computer Science, Princeton NLP</td>
@@ -58,7 +58,7 @@ permalink: /schedule/
 		<td>Contributed Talk</td>
 		<td>Jakob J Hollenstein, Sayantan Auddy, Matteo Saveriano, Erwan Renaudo, Justus Piater<br><b>How do Offline Measures for Exploration in Reinforcement Learning behave?</b> (<a href="https://kbrl.github.io/papers/07-KBRL.pdf">PDF</a>)</td>
 	</tr>	
-	<tr>
+	<tr style="background-color: #e9fad2;">
 		<td>11:30</td>
 		<td>Invited Talk</td>
 		<td><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html">Sergey Levine</a>, Assistant Professor, UC Berkeley</td>
