@@ -8,7 +8,7 @@ permalink: /schedule/
 
 **KBRL Workshop will be held virtually on 7th January 2020 (9:00am - 2:30pm Japan Time)**
 
-<table class="demo" style="text-align: center">
+<table class="demo" style="text-align: center; border-color: #ffffff;">
 	<caption></caption>
 	<thead>
 	<tr>
