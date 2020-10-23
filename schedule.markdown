@@ -8,7 +8,7 @@ permalink: /schedule/
 
 **KBRL Workshop will be held virtually on 7th January 2020 (9:00am - 2:30pm Japan Time)**
 
-<table class="demo" style="text-align: center; border-color: #ffffff;">
+<table class="demo" style="text-align: center">
 	<caption></caption>
 	<thead>
 	<tr>
@@ -18,17 +18,17 @@ permalink: /schedule/
 	</tr>
 	</thead>
 	<tbody>
-	<tr style="background-color: #ffebfc;">
+	<tr style="background-color: #ffebfc; border-color: #ffffff;">
 		<td>09:00</td>
 		<td>Opening Remarks</td>
 		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
-	<tr style="background-color: #e9fad2;">
+	<tr style="background-color: #e9fad2; border-color: #ffffff;">
 		<td>09:05</td>
 		<td>Invited Talk</td>
 		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Research</td>
 	</tr>		
-	<tr style="background-color: #d6edff;">
+	<tr style="background-color: #d6edff; border-color: #ffffff;">
 		<td>09:45</td>
 		<td>Contributed Talk</td>
 		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="https://kbrl.github.io/papers/01-KBRL.pdf">PDF</a>)</td>
