@@ -8,7 +8,7 @@ permalink: /schedule/
 
 **KBRL Workshop will be held virtually on 7th January 2020 (9:00am - 2:30pm Japan Time)**
 
-<table class="demo" style="text-align: center">
+<table style="text-align: center; border-color: #ffffff;">
 	<caption></caption>
 	<thead>
 	<tr>
@@ -18,7 +18,7 @@ permalink: /schedule/
 	</tr>
 	</thead>
 	<tbody>
-	<tr style="background-color: #ffebfc; border-color: #ffffff;">
+	<tr style="background-color: #ffebfc;>
 		<td>09:00</td>
 		<td>Opening Remarks</td>
 		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
