@@ -29,7 +29,7 @@ permalink: /speakers/
 		</tr>
 		<tr>
 			<td style="width: 250px;"> <img src="https://kbrl.github.io/img/spk-mich.jpg" alt="Mich" width="250"/></td>
-			<td> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a> <br> <b>IBM Research</b> </td>
+			<td> <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a> <br> <b>IBM Research</b> <br> <font size="2"> Dr. Michiaki (Mich) Tatsubori leads the Embodied Learning group. After receiving his PhD from University of Tsukuba, he joined the lab in 2002 to work on Web technologies. In 2013, he moved to Nairobi, Kenya, with his family to work at the newly launched lab of IBM Research - Africa. There, he led software development in research projects such as in-car smartphone-based traffic/road analysis. By using data from smartphones embodied in garbage collection vehicles, the team obtained a map that showed road distress in the city, individual driving quality, and even information on moving obstacles such as carts and animals. He returned to Tokyo in 2017  to  enjoy the Rugby World Cup and Olympics. He has been involved with embodied AI and its applications in robotics, visions, planning, and conversations. He is a certified referee of Mini Rugby.</font></td>
 		</tr>		
 	</tbody>
 </table>
