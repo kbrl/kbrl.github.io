@@ -69,7 +69,7 @@ permalink: /schedule/
 		<td>Contributed Talk</td>
 		<td>Corentin Sautier, Don Joven Agravante, Michiaki Tatsubori<br><b>State Prediction in TextWorld with a Predicate-Logic Pointer Network Architecture</b> (<a href="https://kbrl.github.io/papers/08-KBRL.pdf">PDF</a>)</td>
 	</tr>
-	<tr style="background-color: #fdfff0;">
+	<tr style="background-color: #fcffc2;">
 		<td>12:15</td>
 		<td>Contributed Talk</td>
 		<td>Minori Narita, Daiki Kimura<br><b>Learning from Failure: Introducing Failure Ratio in Reinforcement Learning</b> (<a href="https://kbrl.github.io/papers/09-KBRL.pdf">PDF</a>)</td>
@@ -84,12 +84,12 @@ permalink: /schedule/
 		<td>Invited Talk</td>
 		<td><a href="https://scholar.google.co.jp/citations?user=Khb7qw8AAAAJ&hl=ja">Masashi Hamaya</a>, Omron</td>
 	</tr>
-	<tr style="background-color: #fdfff0;">
+	<tr style="background-color: #fcffc2;">
 		<td>13:15</td>
 		<td>Contributed Talk</td>
 		<td>Daiki Kimura, Subhajit Chaudhury, Akifumi Wachi, Ryosuke Kohita, Asim Munawar, Michiaki Tatsubori, Alexander G Gray<br><b>Reinforcement Learning with External Knowledge by using Logical Neural Networks</b> (<a href="https://kbrl.github.io/papers/11-KBRL.pdf">PDF</a>)</td>
 	</tr>
-	<tr style="background-color: #fdfff0;">
+	<tr style="background-color: #fcffc2;">
 		<td>13:30</td>
 		<td>Contributed Talk</td>
 		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Deep Policy Shaping</b> (<a href="https://kbrl.github.io/papers/12-KBRL.pdf">PDF</a>)</td>
