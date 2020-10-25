@@ -62,7 +62,7 @@ permalink: /schedule/
 	<tr style="background-color: #e9fad2;">
 		<td>11:30</td>
 		<td>Invited Talk</td>
-		<td><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html">Sergey Levine</a>, Assistant Professor, UC Berkeley</td>
+		<td><a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/svlevine.html">Sergey Levine</a>, Assistant Professor, UC Berkeley<br><b>Offline Reinforcement Learning: Incorporating Knowledge from Data into RL</b></td>
 	</tr>
 	<tr style="background-color: #fdfff0;">
 		<td>12:00</td>
@@ -97,7 +97,7 @@ permalink: /schedule/
 	<tr style="background-color: #e9fad2;">
 		<td>13:45</td>
 		<td>Invited Talk</td>
-		<td><a href="https://ogata-lab.jp/">Tetsuya Ogata</a>, Waseda University</td>
+		<td><a href="https://ogata-lab.jp/">Tetsuya Ogata</a>, Waseda University<br><b>Deep Predictive Learning and Robot Applications</b></td>
 	</tr>
 	<tr style="background-color: #ffebfc;">
 		<td>14:15</td>
