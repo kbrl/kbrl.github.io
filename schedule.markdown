@@ -28,18 +28,18 @@ permalink: /schedule/
 		<td>Invited Talk</td>
 		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Research</td>
 	</tr>		
-	<tr style="background-color: #fdfff0;">
+	<tr style="background-color: #fdffd9;">
 		<td>09:45</td>
 		<td>Contributed Talk</td>
 		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="https://kbrl.github.io/papers/01-KBRL.pdf">PDF</a>)</td>
 	</tr>	
-	<tr style="background-color: #fdfff0;">
+	<tr style="background-color: #fdffd9;">
 		<td>10:00</td>
 		<td>Contributed Talk</td>
 		<td>Prithviraj V Ammanabrolu, Ethan Tien, Zhaochen Luo, Mark Riedl<br><b>How To Avoid Being Eaten By a Grue: Exploration Strategies for Text-Adventure Agents</b>
  (<a href="https://kbrl.github.io/papers/03-KBRL.pdf">PDF</a>)</td>
 	</tr>
-	<tr style="background-color: #fdfff0;">
+	<tr style="background-color: #fdffd9;">
 		<td>10:15</td>
 		<td>Contributed Talk</td>
 		<td>Bernardo Esteves, Francisco S. Melo<br><b>Revisiting “Recurrent World Models Facilitate Policy Evolution”</b> (<a href="https://kbrl.github.io/papers/05-KBRL.pdf">PDF</a>)</td>
