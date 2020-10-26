@@ -82,7 +82,7 @@ permalink: /schedule/
 	<tr style="background-color: #e9fad2;">
 		<td>12:45</td>
 		<td>Invited Talk</td>
-		<td><a href="https://scholar.google.co.jp/citations?user=Khb7qw8AAAAJ&hl=ja">Masashi Hamaya</a>, Omron</td>
+		<td><a href="https://scholar.google.co.jp/citations?user=Khb7qw8AAAAJ&hl=ja">Masashi Hamaya</a>, <a href="https://scholar.google.co.jp/citations?user=VVoeVYIAAAAJ&hl=ja">Yoshihisa Ijiri</a>,  OMRON SINICX Corp. <br><b>Soft robotic learning for industrial assembly.</b></td>
 	</tr>
 	<tr style="background-color: #f9fade;">
 		<td>13:15</td>
