@@ -13,7 +13,11 @@ permalink: /speakers/
 		</tr>
 		<tr>
 			<td style="width: 250px;"> <img src="https://kbrl.github.io/img/spk-hamaya.jpg" alt="Hamaya" width="250"/></td>
-			<td> <a href="https://scholar.google.co.jp/citations?user=Khb7qw8AAAAJ&hl=ja">Masashi Hamaya</a> <br> <b>Omron</b> </td>
+			<td> <a href="https://scholar.google.co.jp/citations?user=Khb7qw8AAAAJ&hl=ja">Masashi Hamaya</a> <br> <b>OMRON SINICX Corp.</b> <br> <font size="2"> Masashi Hamaya received his Ph.D. degree in Engineering from Osaka University in 2019. 2014-2019, Intern student at Department of Brain Robot Interface in ATR Computational Neuroscience Laboratories. 2017 Jul.-2017 Sep., Visiting scholar in Robotics Institute at Carnegie Mellon University. From 2019, he is a senior researcher in Robotics Group at OMRON SINIC X Corp. His research focuses on learning control for soft robots in industrial applications using sample-efficient reinforcement learning approaches. </font></td>
+		</tr>
+		<tr>
+			<td style="width: 250px;"> <img src="https://kbrl.github.io/img/spk-ijiri.jpg" alt="Ijiri" width="250"/></td>
+			<td> <a href="https://scholar.google.co.jp/citations?user=VVoeVYIAAAAJ&hl=ja">Yoshihisa Ijiri </a> <br> <b>OMRON SINICX Corp.</b> <br> <font size="2"> Yoshihisa Ijiri received his BE and ME degree from Kyoto Institute of Technology, and also Ph.D. degree from Nagoya University, Japan, in 2000, 2002, and 2012, respectively. From 2002, he has been working for OMRON, and in 2018 he jointly launched and moved to OMRON SINIC X. He is now leading the company as a research organizer. His research interests include computer vision, machine learning, robotic manipulation, and soft robotics. </font></td>
 		</tr>
 		<tr>
 			<td style="width: 250px;"> <img src="https://kbrl.github.io/img/spk-ogata.jpg" alt="Ogata" width="250"/></td>
