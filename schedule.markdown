@@ -24,31 +24,31 @@ permalink: /schedule/
 		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
 	<tr style="background-color: #e9fad2;">
-		<td>09:05</td>
+		<td>09:03</td>
 		<td>Invited Talk</td>
-		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Research</td>
-	</tr>		
+		<td><a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>, Assistant Professor, Computer Science, Princeton NLP</td>
+	</tr>					
 	<tr style="background-color: #f9fade;">
-		<td>09:45</td>
+		<td>09:30</td>
 		<td>Contributed Talk</td>
 		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="https://kbrl.github.io/papers/01-KBRL.pdf">PDF</a>)</td>
 	</tr>	
 	<tr style="background-color: #f9fade;">
-		<td>10:00</td>
+		<td>09:45</td>
 		<td>Contributed Talk</td>
 		<td>Prithviraj V Ammanabrolu, Ethan Tien, Zhaochen Luo, Mark Riedl<br><b>How To Avoid Being Eaten By a Grue: Exploration Strategies for Text-Adventure Agents</b>
  (<a href="https://kbrl.github.io/papers/03-KBRL.pdf">PDF</a>)</td>
 	</tr>
+	<tr style="background-color: #e9fad2;">
+		<td>10:00</td>
+		<td>Invited Talk</td>
+		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Research<br><b>Knowledge Based Reinforcement Learning</b></td>
+	</tr>		
 	<tr style="background-color: #f9fade;">
-		<td>10:15</td>
+		<td>10:45</td>
 		<td>Contributed Talk</td>
 		<td>Bernardo Esteves, Francisco S. Melo<br><b>Revisiting “Recurrent World Models Facilitate Policy Evolution”</b> (<a href="https://kbrl.github.io/papers/05-KBRL.pdf">PDF</a>)</td>
 	</tr>
-	<tr style="background-color: #e9fad2;">
-		<td>10:30</td>
-		<td>Invited Talk</td>
-		<td><a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>, Assistant Professor, Computer Science, Princeton NLP</td>
-	</tr>					
 	<tr style="background-color: #f9fade;">
 		<td>11:00</td>
 		<td>Contributed Talk</td>
