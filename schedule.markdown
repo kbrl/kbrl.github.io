@@ -28,12 +28,12 @@ permalink: /schedule/
 		<td>Invited Talk</td>
 		<td><a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>, Assistant Professor, Computer Science, Princeton NLP</td>
 	</tr>					
-	<tr style="background-color: #f9fade;">
+	<tr style="background-color: #fefff0;">
 		<td>09:30</td>
 		<td>Contributed Talk</td>
 		<td>I-Chao Shen, Shu-Hsuan Hsu, Bing-Yu Chen<br><b>Transferring Deep Reinforcement Learning with Adversarial Objective and Augmentation</b>  (<a href="https://kbrl.github.io/papers/01-KBRL.pdf">PDF</a>)</td>
 	</tr>	
-	<tr style="background-color: #f9fade;">
+	<tr style="background-color: #fefff0;">
 		<td>09:45</td>
 		<td>Contributed Talk</td>
 		<td>Prithviraj V Ammanabrolu, Ethan Tien, Zhaochen Luo, Mark Riedl<br><b>How To Avoid Being Eaten By a Grue: Exploration Strategies for Text-Adventure Agents</b>
