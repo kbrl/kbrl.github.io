@@ -99,12 +99,12 @@ permalink: /schedule/
 		<td>Invited Talk</td>
 		<td><a href="https://ogata-lab.jp/">Tetsuya Ogata</a>, Waseda University<br><b>Deep Predictive Learning and Robot Applications</b></td>
 	</tr>
-	<tr style="background-color: #ffeded;">
+	<tr style="background-color: #f5f5f5;">
 		<td>14:15</td>
 		<td>Closing Remarks</td>
 		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
 	</tr>
-	<tr style="background-color: #ffeded;">
+	<tr style="background-color: #f5f5f5;">
 		<td>14:20</td>
 		<td>End</td>
 		<td></td>
