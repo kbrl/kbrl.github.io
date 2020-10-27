@@ -18,7 +18,7 @@ permalink: /schedule/
 	</tr>
 	</thead>
 	<tbody>
-	<tr style="background-color: #ffebfc;">
+	<tr style="background-color: #f5f5f5;">
 		<td>09:00</td>
 		<td>Opening Remarks</td>
 		<td><a href="https://kbrl.github.io/organizers/">KBRL Organizers</a></td>
