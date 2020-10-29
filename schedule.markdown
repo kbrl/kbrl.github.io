@@ -26,7 +26,7 @@ permalink: /schedule/
 	<tr style="background-color: #e9fad2;">
 		<td>09:03</td>
 		<td>Invited Talk</td>
-		<td><a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>, Assistant Professor, Computer Science, Princeton NLP</td>
+		<td><a href="https://www.cs.princeton.edu/~karthikn/">Karthik Narasimhan</a>, Assistant Professor, Computer Science, Princeton NLP<br><b>How can NLP help Reinforcement Learning?</b></td>
 	</tr>					
 	<tr style="background-color: #fefff0;">
 		<td>09:30</td>
