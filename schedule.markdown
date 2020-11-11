@@ -42,7 +42,7 @@ permalink: /schedule/
 	<tr style="background-color: #e9fad2;">
 		<td>10:00</td>
 		<td>Invited Talk</td>
-		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Research<br><b>Knowledge Based Reinforcement Learning</b></td>
+		<td><a href="https://www.linkedin.com/in/alexander-gray-b554b64/">Alexander Gray</a>, <a href="https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH">Michiaki Tatsubori</a>, IBM Research<br><b>Knowledge-based Reinforcement Learning with Logical Neural Networks</b></td>
 	</tr>		
 	<tr style="background-color: #fefff0;">
 		<td>10:45</td>
