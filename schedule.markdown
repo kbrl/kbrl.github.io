@@ -5,7 +5,9 @@ permalink: /schedule/
 ---
 
 **KBRL Workshop will be held virtually on 7th January 2021 (9:00am - 2:30pm Japan Time)**
+
 `Note that this will be night of 6th January 2021 in the Americas and Europe.`
+
 
 **[Time Zone Converter (Workshop Start Time)](https://www.timeanddate.com/worldclock/converter.html?iso=20210107T000000&p1=248&p2=179&p3=224&p4=136&p5=33&p6=233&p7=195&p8=240&p9=70&p10=53&p11=176&p12=166)**
 
