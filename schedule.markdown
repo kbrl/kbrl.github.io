@@ -92,7 +92,7 @@ permalink: /schedule/
 	<tr style="background-color: #fefff0;">
 		<td>13:30</td>
 		<td>Contributed Talk</td>
-		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Deep Policy Shaping</b> (<a href="https://kbrl.github.io/papers/12-KBRL.pdf">PDF</a>)</td>
+		<td>Thomas B Wei, Taylor Kessler Faulkner, Andrea Thomaz<br><b>Policy Shaping in Continuous State Spaces</b> (<a href="https://kbrl.github.io/papers/12-KBRL.pdf">PDF</a>)</td>
 	</tr>
 	<tr style="background-color: #e9fad2;">
 		<td>13:45</td>
