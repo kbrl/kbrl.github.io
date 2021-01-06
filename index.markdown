@@ -11,7 +11,7 @@ permalink: /
 
 **[Call for papers is over.](https://kbrl.github.io/cfp/)**
 
-**For Dates and Location: 7th January 2021 (9:00am - 2:30pm Japan Time) in the Yellow Wing-South 1 [Please refer to IJCAI Workshops page](https://ijcai20.org/workshops/)**
+**For Dates and Location: 7th January 2021 (9:00am - 2:30pm Japan Time) in the Yellow Wing-South 1 ([Please refer to IJCAI Workshops page](https://ijcai20.org/workshops/))**
 
 In recent years, deep Reinforcement Learning (RL) has been widely used in various domains including computer games, robotics, vision, and language. For applications in real-world environments, state of the art reinforcement learning algorithms suffer from a wide range of challenges such as sample inefficiency, safety constraints, partial observability, dynamic environments, hidden rewards insystems, and explainability.
 
