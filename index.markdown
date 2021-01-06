@@ -7,7 +7,7 @@ layout: page
 title: Overview
 permalink: /
 ---
-# KBRL at IJCAI-PRICAI 2020, Yokohama, Japan
+# [W27] KBRL at IJCAI-PRICAI 2020, Yokohama, Japan
 
 **[Call for papers is over.](https://kbrl.github.io/cfp/)**
 
