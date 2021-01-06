@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-**[W27] KBRL Workshop will be held virtually on 7th January 2021 (9:00am - 2:30pm Japan Time) - Yellow Wing-South 1**
+**[W27] KBRL Workshop will be held virtually on 7th January 2021 (9:00am - 2:30pm Japan Time) in the Yellow Wing-South 1**
 
 `Note that this will be night of 6th January 2021 in the Americas and Europe.`
 
